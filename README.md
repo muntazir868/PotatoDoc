@@ -52,7 +52,7 @@ Use the predict_disease function on each captured frame to obtain real-time pred
 Collect a dataset of potato images labeled with their corresponding diseases.
 Ensure the dataset is balanced and representative of the different diseases you want to classify.
 
-2** Train the model:**
+**2 Train the model:**
 
 Modify the provided training script to fit your specific dataset and desired model architecture.
 Train the model on your dataset using appropriate training parameters.
