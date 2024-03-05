@@ -35,7 +35,7 @@ If you want to train your own model, follow the training instructions mentioned 
 Python
 from potato_disease_classifier import predict_disease
 
-# Replace 'path/to/your/image.jpg' with the path to your potato image
+**Replace 'path/to/your/image.jpg' with the path to your potato image**
 prediction = predict_disease('path/to/your/image.jpg')
 print(prediction)
 Use code with caution.
@@ -65,6 +65,6 @@ We encourage contributions to this project. Feel free to fork the repository, ma
 
 This project is licensed under the MIT License (see LICENSE file for details).
 
-Disclaimer:
+**Disclaimer:**
 
 This project is for educational purposes only and should not be used for commercial applications without proper validation and testing.
