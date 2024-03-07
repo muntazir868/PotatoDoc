@@ -1,4 +1,5 @@
-![Uploading WhatsApp Image 2024-03-06 at 15.00.03_a8764e82.jpg…]()
+![Uploading WhatsApp Image 2024-03-03 at 23.20.38_4e9718dc.jpg…]()
+
 
 
 **PotatoDoc: AI-powered Potato Disease Classifier**
