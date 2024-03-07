@@ -1,6 +1,4 @@
-![Uploading WhatsApp Image 2024-03-03 at 23.20.38_4e9718dc.jpg…]()
-
-
+![Uploading WhatsApp Image 2024-03-07 at 23.45.43_62a61567.jpg…]()
 
 **PotatoDoc: AI-powered Potato Disease Classifier**
 **PotatoDoc** is a project that utilizes the power of artificial intelligence (AI) to classify potato diseases. This README provides an overview of the project, including its purpose, setup instructions, and usage examples.
